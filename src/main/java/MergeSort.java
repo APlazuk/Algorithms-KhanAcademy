@@ -1,16 +1,5 @@
-import com.github.javaparser.ast.stmt.WhileStmt;
-
-import java.util.Arrays;
 
 public class MergeSort {
-
-    public static void main(String[] args) {
-        int[] array = {14, 7, 3, 12, 9, 11, 6, 2};
-
-       mergeSort(array, 0, array.length-1);
-        System.out.println(("Array after sorting: " + Arrays.toString(array)));
-    }
-
 
     public static void mergeSort(int[] array, int start, int end) {
 
