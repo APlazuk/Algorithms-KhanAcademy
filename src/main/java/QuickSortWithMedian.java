@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class QuickSort {
+public class QuickSortWithMedian {
 
     public static void main(String[] args) {
         int[] actual = {9, 7, 5, 11, 12, 2, 14, 3, 10, 6};

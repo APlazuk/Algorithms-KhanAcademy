@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<artists>
+    <artist id ="10">
+        <firstname>Aleksander</firstname>
+        <lastname>Głowacki</lastname>
+        <pseudonym>Bolesław Prus</pseudonym>
+        <profession>pisarz</profession>
+        <alive>false</alive>
+    </artist>
+    <artist id ="2">
+        <firstname>Stephen</firstname>
+        <lastname>King</lastname>
+        <pseudonym>Richard Bachman</pseudonym>
+        <profession>writer</profession>
+        <alive>true</alive>
+    </artist>
+</artists>
